@@ -12,10 +12,11 @@
 百度网盘
 
 链接：https://pan.baidu.com/s/18JifDlKyIO0KwiDsskRD5g 
+
 提取码：vk2g 
 
 ### 后端地址项目地址
-https://github.com/ArcherLCY/mbtt-visual-editor-node.git
+链接：https://github.com/ArcherLCY/mbtt-visual-editor-node.git
 
 
 ##  队员Github账户

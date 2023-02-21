@@ -1,25 +1,12 @@
+## 项目描述
 
 
-- 基于React、Redux、Node.js与MongoDB搭建的跨端零代码表单生成与收集的一体化平台。
-- 支持PC端和安卓移动端的多端使用。
-- 用户可以通过拖拽组件的形式，来组合成自己所需要的表单类型，用户可以控制台根据自己的需求与喜好来定义每个组件的样式，系统会对组件在画布上进行实时渲染。
+- 基于React、Redux、Node.js与MongoDB搭建的低代码平台，支持PC端和安卓移动端的多端使用。
+
+- 用户可以通过拖拽组件定义组件的布局，系统会对组件在画布上进行实时渲染。
+ 
 - 导出格式分为代码导出和表单导出，用户可以根据自己的需求来进行导出。
-- 为提升产品体验，我们针对几种特定的场景生成了对应的模板，以便用户直接使用，降低学习成本。
 
-项目部署在Github Pages，项目地址：https://archerlcy.github.io/mbtt-visual-editor/
-
-
-
-# 项目命令
-
-安装依赖
-npm install
-
-运行
-npm run start
-
-### 后端地址项目地址
-https://github.com/ArcherLCY/mbtt-visual-editor-node.git
 
 # 队员Github账户
 
@@ -37,3 +24,5 @@ https://github.com/ArcherLCY/mbtt-visual-editor-node.git
 链接：https://pan.baidu.com/s/18JifDlKyIO0KwiDsskRD5g 
 提取码：vk2g 
 
+### 后端地址项目地址
+https://github.com/ArcherLCY/mbtt-visual-editor-node.git

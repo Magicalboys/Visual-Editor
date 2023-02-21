@@ -38,5 +38,3 @@ https://github.com/ArcherLCY/mbtt-visual-editor-node.git
 提取码：vk2g 
 --来自百度网盘超级会员V1的分享
 
-# 线上地址
-https://archerlcy.github.io/mbtt-visual-editor/

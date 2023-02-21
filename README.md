@@ -7,8 +7,16 @@
  
 - 导出格式分为代码导出和表单导出，用户可以根据自己的需求来进行导出。
 
+# 移动端安装包 百度网盘
 
-# 队员Github账户
+链接：https://pan.baidu.com/s/18JifDlKyIO0KwiDsskRD5g 
+提取码：vk2g 
+
+### 后端地址项目地址
+https://github.com/ArcherLCY/mbtt-visual-editor-node.git
+
+
+##  队员Github账户
 
 | 姓名   | 账户名                                        |
 | ------ | --------------------------------------------- |
@@ -19,10 +27,3 @@
 | 钟国政 | [victinSever](https://github.com/victinSever) |
 | 程新格 | [CXGBro](https://github.com/CXGBro)           |
 
-# 移动端安装包 百度网盘
-
-链接：https://pan.baidu.com/s/18JifDlKyIO0KwiDsskRD5g 
-提取码：vk2g 
-
-### 后端地址项目地址
-https://github.com/ArcherLCY/mbtt-visual-editor-node.git

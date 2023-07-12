@@ -15,7 +15,7 @@
 
 提取码：vk2g 
 
-### 后端地址项目地址
+### 后端项目地址
 链接：https://github.com/ArcherLCY/mbtt-visual-editor-node.git
 
 ##  队员Github账户
